@@ -1,4 +1,4 @@
 # Playmusic
 
-A program for playing your favorite music files.
+A program for playing music files.
  
